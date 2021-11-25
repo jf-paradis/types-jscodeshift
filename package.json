@@ -3,7 +3,7 @@
     "name": "@types/jscodeshift",
     "version": "0.11.3",
     "dependencies": {
-        "ast-types": "^0.14.1",
-        "recast": "^0.20.3"
+        "ast-types": "github:jf-paradis/ast-types",
+        "recast": "github:jf-paradis/recast"
     }
 }
